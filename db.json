@@ -792,44 +792,44 @@
 		"collections": "Light"
 	},
         {
-		"name": "PaintedCanvas01",
+		"name": "paintedcanvas01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647458-3fde6b00-0aed-11eb-8f5c-92953845b236.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647458-3fde6b00-0aed-11eb-8f5c-92953845b236.jpg",
 		"downloadable" : "true",
-		"collections": "PaintedCanvas"
+		"collections": "Painted Canvas"
 	},
 	{
-		"name": "PaintedCanvas02",
+		"name": "paintedcanvas02",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647492-8764f700-0aed-11eb-922f-c2b0de705099.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647492-8764f700-0aed-11eb-922f-c2b0de705099.jpg",
 		"downloadable" : "true",
-		"collections": "PaintedCanvas"
+		"collections": "Painted Canvas"
 	},
         {
-		"name": "PaintedCanvas03",
+		"name": "paintedcanvas03",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647543-d7dc5480-0aed-11eb-9a42-129d7fc7ffd4.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647543-d7dc5480-0aed-11eb-9a42-129d7fc7ffd4.jpg",
 		"downloadable" : "true",
-		"collections": "PaintedCanvas"
+		"collections": "Painted Canvas"
 	},
         {
-		"name": "PaintedCanvas04",
+		"name": "paintedcanvas04",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647576-14a84b80-0aee-11eb-96ab-e58607989f01.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647576-14a84b80-0aee-11eb-96ab-e58607989f01.jpg",
 		"downloadable" : "true",
-		"collections": "PaintedCanvas"
+		"collections": "Painted Canvas"
 	},
         {
-		"name": "PaintedCanvas05",
+		"name": "paintedcanvas05",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647610-4caf8e80-0aee-11eb-98b9-c608a72109f8.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647610-4caf8e80-0aee-11eb-98b9-c608a72109f8.jpg",
 		"downloadable" : "true",
-		"collections": "PaintedCanvas"
+		"collections": "Painted Canvas"
 	},
 	{
 		"name": "nature01",
