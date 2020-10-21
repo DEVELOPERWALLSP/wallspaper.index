@@ -3,15 +3,15 @@
 		"name": "night01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/34376831/95672191-64eddf00-0bbc-11eb-9f6f-e475bbf1d231.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95672174-3f60d580-0bbc-11eb-8abd-db5bfb333226.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95672191-64eddf00-0bbc-11eb-9f6f-e475bbf1d231.jpg",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
 	{
 		"name": "night02",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660657-ee62ca00-0b46-11eb-9293-3b788db7174a.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660909-9927b800-0b48-11eb-8a99-f63abe5c69fb.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660656-edca3380-0b46-11eb-8ba6-9960a87c131e.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660656-edca3380-0b46-11eb-8ba6-9960a87c131e.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
@@ -19,136 +19,120 @@
 		"name": "night03",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95660660-f02c8d80-0b46-11eb-85c0-bfb4d172eeab.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660910-99c04e80-0b48-11eb-8a9a-98085908e13f.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660660-f02c8d80-0b46-11eb-85c0-bfb4d172eeab.png",
+		"downloadable" : "true",
+		"collections": "Night"
+	},
+        {
+		"name": "night04",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/95660663-f28ee780-0b46-11eb-9a48-da363cab23ab.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660663-f28ee780-0b46-11eb-9a48-da363cab23ab.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night05",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660663-f28ee780-0b46-11eb-9a48-da363cab23ab.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660898-94fb9a80-0b48-11eb-8aeb-4952e2e866fc.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660650-ea36ac80-0b46-11eb-84ac-fa12d52877b9.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660650-ea36ac80-0b46-11eb-84ac-fa12d52877b9.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night06",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660650-ea36ac80-0b46-11eb-84ac-fa12d52877b9.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660899-95943100-0b48-11eb-86c7-13ffc14cbd1e.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660651-eb67d980-0b46-11eb-8758-4d8968601dd4.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660651-eb67d980-0b46-11eb-8758-4d8968601dd4.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night07",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660651-eb67d980-0b46-11eb-8758-4d8968601dd4.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660900-95943100-0b48-11eb-8e93-036fc2d10daf.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660654-ec990680-0b46-11eb-8cd2-700eed80302d.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660654-ec990680-0b46-11eb-8cd2-700eed80302d.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night08",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660653-ec007000-0b46-11eb-9863-9fa27d0f4d14.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660901-962cc780-0b48-11eb-80e5-164ac03bbff6.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660655-ed319d00-0b46-11eb-86a2-0e6db93c08a8.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660655-ed319d00-0b46-11eb-86a2-0e6db93c08a8.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night09",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660654-ec990680-0b46-11eb-8cd2-700eed80302d.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660902-96c55e00-0b48-11eb-8356-2de37a242d1f.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660657-ee62ca00-0b46-11eb-9293-3b788db7174a.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660657-ee62ca00-0b46-11eb-9293-3b788db7174a.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night10",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660655-ed319d00-0b46-11eb-86a2-0e6db93c08a8.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95684569-3bf73980-0c10-11eb-963f-6eb22ecb5db0.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660799-f53e0c80-0b47-11eb-925d-a60e1afff74f.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660799-f53e0c80-0b47-11eb-925d-a60e1afff74f.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night11",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660656-edca3380-0b46-11eb-8ba6-9960a87c131e.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660904-975df480-0b48-11eb-9b6b-24b4ffe3d376.png",
+		"url": "https://user-images.githubusercontent.com/71882553/95660802-f66f3980-0b47-11eb-9f2e-feef3b6b4f23.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660802-f66f3980-0b47-11eb-9f2e-feef3b6b4f23.jpg",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
         {
 		"name": "night12",
 		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660799-f53e0c80-0b47-11eb-925d-a60e1afff74f.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660905-975df480-0b48-11eb-997a-2e9963e9051c.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night13",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660801-f5d6a300-0b47-11eb-8286-56d40a322130.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660906-97f68b00-0b48-11eb-89c0-24b0cdebd1c3.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night14",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660802-f66f3980-0b47-11eb-9f2e-feef3b6b4f23.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660907-988f2180-0b48-11eb-91eb-b2b85d879cb4.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night15",
-		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95660796-f3744900-0b47-11eb-85bb-89b080fa20be.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660908-988f2180-0b48-11eb-803f-d2412602e235.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660796-f3744900-0b47-11eb-85bb-89b080fa20be.png",
 		"downloadable" : "true",
 		"collections": "Night"
 	},
-        {
-		"name": "night16",
+	{
+		"name": "night13",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96667702-31a70f00-1377-11eb-8a1f-32ef5d5f7365.png",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96667702-31a70f00-1377-11eb-8a1f-32ef5d5f7365.png",
-		"downloadable" : "true",
+		"downloadable": "true",
 		"collections": "Night"
 	},
-        {
-		"name": "night17",
+	{
+		"name": "night14",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96667705-3370d280-1377-11eb-8f57-638b7c8772f6.png",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96667705-3370d280-1377-11eb-8f57-638b7c8772f6.png",
-		"downloadable" : "true",
+		"downloadable": "true",
 		"collections": "Night"
 	},
-        {
-		"name": "night18",
+	{
+		"name": "night15",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96667707-34a1ff80-1377-11eb-9d10-52d08032797b.png",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96667707-34a1ff80-1377-11eb-9d10-52d08032797b.png",
-		"downloadable" : "true",
+		"downloadable": "true",
 		"collections": "Night"
 	},
-        {
-		"name": "night19",
+	{
+		"name": "night16",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96667711-353a9600-1377-11eb-8277-10d41ff5985d.png",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96667711-353a9600-1377-11eb-8277-10d41ff5985d.png",
-		"downloadable" : "true",
+		"downloadable": "true",
 		"collections": "Night"
 	},
-        {
-		"name": "night20",
+	{
+		"name": "night17",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96667969-beea6380-1377-11eb-85a2-617f7760a74d.png",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96667969-beea6380-1377-11eb-85a2-617f7760a74d.png",
-		"downloadable" : "true",
+		"downloadable": "true",
 		"collections": "Night"
 	},
 	{
@@ -157,7 +141,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548779-19c68100-12cc-11eb-8d32-7c9ce3bdaea2.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548779-19c68100-12cc-11eb-8d32-7c9ce3bdaea2.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations02",
@@ -165,7 +149,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548784-19c68100-12cc-11eb-9c41-f64de66eccf0.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548784-19c68100-12cc-11eb-9c41-f64de66eccf0.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations03",
@@ -173,7 +157,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548786-1af7ae00-12cc-11eb-9916-2c0074cbc542.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548786-1af7ae00-12cc-11eb-9916-2c0074cbc542.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations04",
@@ -181,7 +165,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548789-1b904480-12cc-11eb-85fb-74ad29c5daef.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548789-1b904480-12cc-11eb-85fb-74ad29c5daef.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations05",
@@ -189,7 +173,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548791-1c28db00-12cc-11eb-8fe3-105a58172793.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548791-1c28db00-12cc-11eb-8fe3-105a58172793.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations06",
@@ -197,7 +181,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548763-1501cd00-12cc-11eb-93ab-1b8f4bbe2a9f.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548763-1501cd00-12cc-11eb-93ab-1b8f4bbe2a9f.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations07",
@@ -205,7 +189,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548769-16cb9080-12cc-11eb-9eaf-450b75263142.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548769-16cb9080-12cc-11eb-9eaf-450b75263142.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations08",
@@ -213,7 +197,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548770-17642700-12cc-11eb-9925-1e31387e5b40.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548770-17642700-12cc-11eb-9925-1e31387e5b40.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations09",
@@ -221,7 +205,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548774-17fcbd80-12cc-11eb-81e1-3cc9894eb140.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548774-17fcbd80-12cc-11eb-81e1-3cc9894eb140.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations10",
@@ -229,7 +213,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96548777-18955400-12cc-11eb-8d0b-ae7e7982e0b8.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96548777-18955400-12cc-11eb-8d0b-ae7e7982e0b8.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations11",
@@ -237,7 +221,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549487-2a2b2b80-12cd-11eb-9434-b1830eff4bab.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549487-2a2b2b80-12cd-11eb-9434-b1830eff4bab.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations12",
@@ -245,7 +229,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549489-2ac3c200-12cd-11eb-82a8-4d72cc97fc36.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549489-2ac3c200-12cd-11eb-82a8-4d72cc97fc36.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations13",
@@ -253,7 +237,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549490-2b5c5880-12cd-11eb-8ec5-0585222d4771.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549490-2b5c5880-12cd-11eb-8ec5-0585222d4771.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations14",
@@ -261,7 +245,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549491-2bf4ef00-12cd-11eb-9b92-a623f9d9c5ec.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549491-2bf4ef00-12cd-11eb-9b92-a623f9d9c5ec.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations15",
@@ -269,7 +253,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549495-2c8d8580-12cd-11eb-9f1c-bc3494c0fcf8.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549495-2c8d8580-12cd-11eb-9f1c-bc3494c0fcf8.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations16",
@@ -277,7 +261,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549498-2d261c00-12cd-11eb-83e1-2266f8c9ed5b.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549498-2d261c00-12cd-11eb-83e1-2266f8c9ed5b.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "illustrations17",
@@ -285,7 +269,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549466-25ff0e00-12cd-11eb-92b0-216bb03fbe7b.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549466-25ff0e00-12cd-11eb-92b0-216bb03fbe7b.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations18",
@@ -293,7 +277,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549475-27c8d180-12cd-11eb-9383-a83d5309a4b4.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549475-27c8d180-12cd-11eb-9383-a83d5309a4b4.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations19",
@@ -301,7 +285,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549479-28f9fe80-12cd-11eb-8fae-14ec57eaf44e.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549479-28f9fe80-12cd-11eb-8fae-14ec57eaf44e.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
         {
 		"name": "illustrations20",
@@ -309,7 +293,7 @@
 		"url": "https://user-images.githubusercontent.com/71882553/96549484-29929500-12cd-11eb-8c72-b0ccf4125988.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96549484-29929500-12cd-11eb-8c72-b0ccf4125988.jpg",
 		"downloadable" : "true",
-		"collections": "Dope Illustrations"
+		"collections": "Dopeillustrations"
 	},
 	{
 		"name": "minimalist01",
@@ -944,44 +928,44 @@
 		"collections": "Light"
 	},
         {
-		"name": "paintedcanvas01",
+		"name": "PaintedCanvas01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647458-3fde6b00-0aed-11eb-8f5c-92953845b236.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647458-3fde6b00-0aed-11eb-8f5c-92953845b236.jpg",
 		"downloadable" : "true",
-		"collections": "Painted Canvas"
+		"collections": "PaintedCanvas"
 	},
 	{
-		"name": "paintedcanvas02",
+		"name": "PaintedCanvas02",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647492-8764f700-0aed-11eb-922f-c2b0de705099.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647492-8764f700-0aed-11eb-922f-c2b0de705099.jpg",
 		"downloadable" : "true",
-		"collections": "Painted Canvas"
+		"collections": "PaintedCanvas"
 	},
         {
-		"name": "paintedcanvas03",
+		"name": "PaintedCanvas03",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647543-d7dc5480-0aed-11eb-9a42-129d7fc7ffd4.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647543-d7dc5480-0aed-11eb-9a42-129d7fc7ffd4.jpg",
 		"downloadable" : "true",
-		"collections": "Painted Canvas"
+		"collections": "PaintedCanvas"
 	},
         {
-		"name": "paintedcanvas04",
+		"name": "PaintedCanvas04",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647576-14a84b80-0aee-11eb-96ab-e58607989f01.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647576-14a84b80-0aee-11eb-96ab-e58607989f01.jpg",
 		"downloadable" : "true",
-		"collections": "Painted Canvas"
+		"collections": "PaintedCanvas"
 	},
         {
-		"name": "paintedcanvas05",
+		"name": "PaintedCanvas05",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/95647610-4caf8e80-0aee-11eb-98b9-c608a72109f8.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95647610-4caf8e80-0aee-11eb-98b9-c608a72109f8.jpg",
 		"downloadable" : "true",
-		"collections": "Painted Canvas"
+		"collections": "PaintedCanvas"
 	},
 	{
 		"name": "nature01",
@@ -1294,102 +1278,6 @@
 		"thumbnail": "https://user-images.githubusercontent.com/34376831/95657537-9c17ae00-0b32-11eb-864c-f80fd3ae626b.jpg",
 		"downloadable" : "true",
 		"collections": "Wavy"
-	},
-        {
-		"name": "night01",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95672191-64eddf00-0bbc-11eb-9f6f-e475bbf1d231.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95672191-64eddf00-0bbc-11eb-9f6f-e475bbf1d231.jpg",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-	{
-		"name": "night02",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660656-edca3380-0b46-11eb-8ba6-9960a87c131e.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660656-edca3380-0b46-11eb-8ba6-9960a87c131e.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-	{
-		"name": "night03",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660660-f02c8d80-0b46-11eb-85c0-bfb4d172eeab.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660660-f02c8d80-0b46-11eb-85c0-bfb4d172eeab.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night04",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660663-f28ee780-0b46-11eb-9a48-da363cab23ab.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660663-f28ee780-0b46-11eb-9a48-da363cab23ab.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night05",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660650-ea36ac80-0b46-11eb-84ac-fa12d52877b9.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660650-ea36ac80-0b46-11eb-84ac-fa12d52877b9.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night06",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660651-eb67d980-0b46-11eb-8758-4d8968601dd4.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660651-eb67d980-0b46-11eb-8758-4d8968601dd4.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night07",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660654-ec990680-0b46-11eb-8cd2-700eed80302d.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660654-ec990680-0b46-11eb-8cd2-700eed80302d.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night08",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660655-ed319d00-0b46-11eb-86a2-0e6db93c08a8.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660655-ed319d00-0b46-11eb-86a2-0e6db93c08a8.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night09",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660657-ee62ca00-0b46-11eb-9293-3b788db7174a.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660657-ee62ca00-0b46-11eb-9293-3b788db7174a.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night10",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660799-f53e0c80-0b47-11eb-925d-a60e1afff74f.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660799-f53e0c80-0b47-11eb-925d-a60e1afff74f.png",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night11",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660802-f66f3980-0b47-11eb-9f2e-feef3b6b4f23.jpg",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660802-f66f3980-0b47-11eb-9f2e-feef3b6b4f23.jpg",
-		"downloadable" : "true",
-		"collections": "Night"
-	},
-        {
-		"name": "night12",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95660796-f3744900-0b47-11eb-85bb-89b080fa20be.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95660796-f3744900-0b47-11eb-85bb-89b080fa20be.png",
-		"downloadable" : "true",
-		"collections": "Night"
 	},
         {
 		"name": "spooky01",
