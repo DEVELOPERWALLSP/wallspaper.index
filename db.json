@@ -1,17 +1,17 @@
 [
-	        {
-		"name": "handmade01",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/95301042-ac632b00-089d-11eb-987a-efaa8e91c717.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/95301042-ac632b00-089d-11eb-987a-efaa8e91c717.png",
-		"downloadable" : "true",
-		"collections": "Handmade"
-	},
-        {
+	 {
 		"name": "handmade02",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96670224-797c6500-137c-11eb-9e80-25567505acc1.jpg",
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/96670224-797c6500-137c-11eb-9e80-25567505acc1.jpg",
+		"downloadable" : "true",
+		"collections": "Handmade"
+	},
+	{
+		"name": "handmade01",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/95301042-ac632b00-089d-11eb-987a-efaa8e91c717.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/95301042-ac632b00-089d-11eb-987a-efaa8e91c717.png",
 		"downloadable" : "true",
 		"collections": "Handmade"
 	},
