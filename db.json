@@ -7,14 +7,6 @@
 		"downloadable" : "true",
 		"collections": "Nature"
 	},
-	        {
-		"name": "naturetest",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97836869-38cd0600-1d03-11eb-9e43-a00bee0bb7b6.gif",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97837591-7f6f3000-1d04-11eb-8a0c-64c6389e8ea5.png",
-		"downloadable" : "true",
-		"collections": "Nature"
-	},
         {
 		"name": "nature02",
 		"author": "GreenHouseStudio",
