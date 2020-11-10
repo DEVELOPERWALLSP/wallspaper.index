@@ -1,5 +1,61 @@
 [
 	{
+		"name": "Animal01",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98682622-23527e80-238a-11eb-9fec-3728af4014c5.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98682622-23527e80-238a-11eb-9fec-3728af4014c5.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+        {
+		"name": "Animal02",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98682625-2483ab80-238a-11eb-801b-e967f4ed1664.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98682625-2483ab80-238a-11eb-801b-e967f4ed1664.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+        {
+		"name": "Animal03",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98682628-264d6f00-238a-11eb-8207-74e41819fc77.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98682628-264d6f00-238a-11eb-8207-74e41819fc77.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+        {
+		"name": "Animal04",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98682607-1fbef780-238a-11eb-9ad4-3085404374ad.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98682607-1fbef780-238a-11eb-9ad4-3085404374ad.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+        {
+		"name": "Animal05",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98682619-22215180-238a-11eb-91b4-0dcfe9011125.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98682619-22215180-238a-11eb-91b4-0dcfe9011125.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+        {
+		"name": "Animal06",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98683422-05394e00-238b-11eb-83bb-4d13f87cb960.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98683422-05394e00-238b-11eb-83bb-4d13f87cb960.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+        {
+		"name": "Animal07",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/98683425-07031180-238b-11eb-94e5-ffd1206f053c.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/98683425-07031180-238b-11eb-94e5-ffd1206f053c.jpg",
+		"downloadable" : "true",
+		"collections": "Animal"
+	},
+	{
 		"name": "Sunset01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/96844236-e5d69180-146c-11eb-9da1-c8ced76162fa.png",
