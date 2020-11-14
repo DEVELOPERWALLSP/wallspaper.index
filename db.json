@@ -151,6 +151,14 @@
 		"downloadable" : "true",
 		"collections": "Nature"
 	},
+        {
+		"name": "nature20",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/99142348-462aae80-267a-11eb-9139-328dc47e3436.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/99142348-462aae80-267a-11eb-9139-328dc47e3436.png",
+		"downloadable" : "true",
+		"collections": "Nature"
+	},
 	{
 		"name": "Animal01",
 		"author": "GreenHouseStudio",
