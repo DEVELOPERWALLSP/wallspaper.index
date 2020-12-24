@@ -1,5 +1,69 @@
 [
 	{
+		"name": "Christmas01",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103243-d549bf80-4645-11eb-9be6-46dd7f3f25cc.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103243-d549bf80-4645-11eb-9be6-46dd7f3f25cc.png",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+	{
+		"name": "Christmas02",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103244-d5e25600-4645-11eb-923a-da7291542172.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103244-d5e25600-4645-11eb-923a-da7291542172.png",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+        {
+		"name": "Christmas03",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103241-d24ecf00-4645-11eb-9894-2092b3f9c7b3.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103241-d24ecf00-4645-11eb-9894-2092b3f9c7b3.png",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+        {
+		"name": "Christmas04",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103242-d4189280-4645-11eb-8a5e-8c299d76e988.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103242-d4189280-4645-11eb-8a5e-8c299d76e988.jpg",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+        {
+		"name": "Christmas05",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103303-2659b380-4646-11eb-88f4-07bde916bf8a.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103303-2659b380-4646-11eb-88f4-07bde916bf8a.jpg",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+        {
+		"name": "Christmas06",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103305-278ae080-4646-11eb-9fb1-c0b33e216d6d.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103305-278ae080-4646-11eb-9fb1-c0b33e216d6d.jpg",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+        {
+		"name": "Christmas07",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103301-23f75980-4646-11eb-80f5-d579a300a603.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103301-23f75980-4646-11eb-80f5-d579a300a603.jpg",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+        {
+		"name": "Christmas08",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/103103302-25c11d00-4646-11eb-9401-aeb1aaf7904c.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/103103302-25c11d00-4646-11eb-9401-aeb1aaf7904c.png",
+		"downloadable" : "true",
+		"collections": "Christmas"
+	},
+	{
 		"name": "Sunset01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/101761726-827aee80-3b02-11eb-9c55-0e8b45b02525.png",
