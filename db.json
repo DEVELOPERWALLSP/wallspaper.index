@@ -1,5 +1,309 @@
 [
         {
+		"name": "Amoled01",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348218-806e9380-7207-11eb-9466-b1591db56be3.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348218-806e9380-7207-11eb-9466-b1591db56be3.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled02",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348209-7e0c3980-7207-11eb-8165-8ed6edc43a74.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348209-7e0c3980-7207-11eb-8165-8ed6edc43a74.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled03",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348372-b875d680-7207-11eb-955a-baaf095c50ce.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348372-b875d680-7207-11eb-955a-baaf095c50ce.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled04",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348358-b449b900-7207-11eb-9d20-a98e6d367b97.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348358-b449b900-7207-11eb-9d20-a98e6d367b97.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled05",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348371-b7dd4000-7207-11eb-9e11-199c1d628a85.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348371-b7dd4000-7207-11eb-9e11-199c1d628a85.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled06",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348609-02f75300-7208-11eb-9039-e02e4592fcad.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348609-02f75300-7208-11eb-9039-e02e4592fcad.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled07",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348720-26ba9900-7208-11eb-931b-b00a677714e5.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348720-26ba9900-7208-11eb-931b-b00a677714e5.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled08",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348707-23271200-7208-11eb-9f87-708784bc1b54.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348707-23271200-7208-11eb-9f87-708784bc1b54.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled09",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348878-523d8380-7208-11eb-9d4d-92132ffebf6b.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348878-523d8380-7208-11eb-9d4d-92132ffebf6b.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled10",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108348916-5d90af00-7208-11eb-9d40-f6f6e937b71d.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108348916-5d90af00-7208-11eb-9d40-f6f6e937b71d.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled11",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108349087-96c91f00-7208-11eb-861d-d4f507d2e8f1.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108349087-96c91f00-7208-11eb-861d-d4f507d2e8f1.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled12",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108349091-9761b580-7208-11eb-8d76-18019f2ac521.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108349091-9761b580-7208-11eb-8d76-18019f2ac521.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled13",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108349096-97fa4c00-7208-11eb-998b-4896188ca042.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108349096-97fa4c00-7208-11eb-998b-4896188ca042.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled14",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108349080-93ce2e80-7208-11eb-8c48-05bd7a0c513e.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108349080-93ce2e80-7208-11eb-8c48-05bd7a0c513e.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled15",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108349429-f7f0f280-7208-11eb-95c5-2e57fe34349b.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108349429-f7f0f280-7208-11eb-95c5-2e57fe34349b.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled16",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/108349412-f45d6b80-7208-11eb-8bb7-32557482ef77.jpg",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/108349412-f45d6b80-7208-11eb-8bb7-32557482ef77.jpg",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled17",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979911-f6d0bc80-1df5-11eb-824f-56ca610aefd6.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979911-f6d0bc80-1df5-11eb-824f-56ca610aefd6.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled18",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979913-f7695300-1df5-11eb-9dc2-f2cc17d405c1.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979913-f7695300-1df5-11eb-9dc2-f2cc17d405c1.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled19",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979917-f89a8000-1df5-11eb-869b-fd4bb0e85c4a.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979917-f89a8000-1df5-11eb-869b-fd4bb0e85c4a.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled20",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979920-f9331680-1df5-11eb-9a0b-853ce59ba1b8.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979920-f9331680-1df5-11eb-9a0b-853ce59ba1b8.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled21",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979894-f3d5cc00-1df5-11eb-9b37-da7872447b61.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979894-f3d5cc00-1df5-11eb-9b37-da7872447b61.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled22",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979897-f506f900-1df5-11eb-9e90-5170f7888709.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979897-f506f900-1df5-11eb-9e90-5170f7888709.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled23",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979899-f59f8f80-1df5-11eb-8490-7723a6ec1ff4.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979899-f59f8f80-1df5-11eb-8490-7723a6ec1ff4.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled24",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97979902-f6382600-1df5-11eb-8d90-a365dd954b06.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979902-f6382600-1df5-11eb-8d90-a365dd954b06.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled25",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/71882553/97981081-c68a1d80-1df7-11eb-9631-7883a633483e.png",
+		"thumbnail": "https://user-images.githubusercontent.com/71882553/97981081-c68a1d80-1df7-11eb-9631-7883a633483e.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled26",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95075629-2674a200-072e-11eb-8161-b682a86dbc48.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95075629-2674a200-072e-11eb-8161-b682a86dbc48.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled27",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95076114-fb3e8280-072e-11eb-952d-3b5fb3c29cb3.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95076114-fb3e8280-072e-11eb-952d-3b5fb3c29cb3.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled28",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95076345-51abc100-072f-11eb-8ef8-733e889f5d77.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95076345-51abc100-072f-11eb-8ef8-733e889f5d77.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled29",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95079339-1bbd0b80-0734-11eb-8103-30b18481e3cf.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95079339-1bbd0b80-0734-11eb-8103-30b18481e3cf.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled30",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95079541-63dc2e00-0734-11eb-9d21-b1b3c0e2c731.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95079541-63dc2e00-0734-11eb-9d21-b1b3c0e2c731.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled31",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95081210-d6e6a400-0736-11eb-939b-cfbd6fec641f.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95081210-d6e6a400-0736-11eb-939b-cfbd6fec641f.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled32",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95083996-e8ca4600-073a-11eb-8829-d618dc578d0b.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95083996-e8ca4600-073a-11eb-8829-d618dc578d0b.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled33",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95084894-22e81780-073c-11eb-817a-e8125ee2f11d.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95084894-22e81780-073c-11eb-817a-e8125ee2f11d.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled34",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95085179-7d817380-073c-11eb-9a49-e4cb457a1aac.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085179-7d817380-073c-11eb-9a49-e4cb457a1aac.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled35",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95085487-eb2d9f80-073c-11eb-874e-4773ee55ce66.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085487-eb2d9f80-073c-11eb-874e-4773ee55ce66.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled36",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95085667-2af48700-073d-11eb-921a-ac5ed52dcf28.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085667-2af48700-073d-11eb-921a-ac5ed52dcf28.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled37",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95085997-92123b80-073d-11eb-9bc1-37f6c5802b22.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085997-92123b80-073d-11eb-9bc1-37f6c5802b22.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
+		"name": "Amoled38",
+		"author": "GreenHouseStudio",
+		"url": "https://user-images.githubusercontent.com/34376831/95086208-d69dd700-073d-11eb-8d94-5e90ba164d29.png",
+		"thumbnail": "https://user-images.githubusercontent.com/34376831/95086208-d69dd700-073d-11eb-8d94-5e90ba164d29.png",
+		"downloadable" : "true",
+		"collections": "Amoled"
+	},
+        {
 		"name": "Cute Cartoon01",
 		"author": "GreenHouseStudio",
 		"url": "https://user-images.githubusercontent.com/71882553/107755841-5a4d7d00-6d49-11eb-90fc-a7450e465498.png",
@@ -1726,182 +2030,6 @@
 		"thumbnail": "https://user-images.githubusercontent.com/71882553/95706373-506d1d80-0c74-11eb-9fd7-57f7ae6132f0.jpg",
 		"downloadable" : "true",
 		"collections": "Liquid"
-	},
-        {
-		"name": "amoled01",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979911-f6d0bc80-1df5-11eb-824f-56ca610aefd6.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979911-f6d0bc80-1df5-11eb-824f-56ca610aefd6.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled02",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979913-f7695300-1df5-11eb-9dc2-f2cc17d405c1.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979913-f7695300-1df5-11eb-9dc2-f2cc17d405c1.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled03",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979917-f89a8000-1df5-11eb-869b-fd4bb0e85c4a.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979917-f89a8000-1df5-11eb-869b-fd4bb0e85c4a.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled04",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979920-f9331680-1df5-11eb-9a0b-853ce59ba1b8.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979920-f9331680-1df5-11eb-9a0b-853ce59ba1b8.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled05",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979894-f3d5cc00-1df5-11eb-9b37-da7872447b61.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979894-f3d5cc00-1df5-11eb-9b37-da7872447b61.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled06",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979897-f506f900-1df5-11eb-9e90-5170f7888709.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979897-f506f900-1df5-11eb-9e90-5170f7888709.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled07",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979899-f59f8f80-1df5-11eb-8490-7723a6ec1ff4.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979899-f59f8f80-1df5-11eb-8490-7723a6ec1ff4.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled08",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97979902-f6382600-1df5-11eb-8d90-a365dd954b06.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97979902-f6382600-1df5-11eb-8d90-a365dd954b06.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled09",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/71882553/97981081-c68a1d80-1df7-11eb-9631-7883a633483e.png",
-		"thumbnail": "https://user-images.githubusercontent.com/71882553/97981081-c68a1d80-1df7-11eb-9631-7883a633483e.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled10",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95075629-2674a200-072e-11eb-8161-b682a86dbc48.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95075629-2674a200-072e-11eb-8161-b682a86dbc48.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled11",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95076114-fb3e8280-072e-11eb-952d-3b5fb3c29cb3.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95076114-fb3e8280-072e-11eb-952d-3b5fb3c29cb3.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled12",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95076345-51abc100-072f-11eb-8ef8-733e889f5d77.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95076345-51abc100-072f-11eb-8ef8-733e889f5d77.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled13",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95079339-1bbd0b80-0734-11eb-8103-30b18481e3cf.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95079339-1bbd0b80-0734-11eb-8103-30b18481e3cf.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled14",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95079541-63dc2e00-0734-11eb-9d21-b1b3c0e2c731.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95079541-63dc2e00-0734-11eb-9d21-b1b3c0e2c731.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled15",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95081210-d6e6a400-0736-11eb-939b-cfbd6fec641f.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95081210-d6e6a400-0736-11eb-939b-cfbd6fec641f.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled16",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95083996-e8ca4600-073a-11eb-8829-d618dc578d0b.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95083996-e8ca4600-073a-11eb-8829-d618dc578d0b.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled17",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95084894-22e81780-073c-11eb-817a-e8125ee2f11d.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95084894-22e81780-073c-11eb-817a-e8125ee2f11d.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled18",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95085179-7d817380-073c-11eb-9a49-e4cb457a1aac.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085179-7d817380-073c-11eb-9a49-e4cb457a1aac.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled19",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95085487-eb2d9f80-073c-11eb-874e-4773ee55ce66.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085487-eb2d9f80-073c-11eb-874e-4773ee55ce66.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled20",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95085667-2af48700-073d-11eb-921a-ac5ed52dcf28.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085667-2af48700-073d-11eb-921a-ac5ed52dcf28.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled21",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95085997-92123b80-073d-11eb-9bc1-37f6c5802b22.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95085997-92123b80-073d-11eb-9bc1-37f6c5802b22.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
-	},
-        {
-		"name": "amoled22",
-		"author": "GreenHouseStudio",
-		"url": "https://user-images.githubusercontent.com/34376831/95086208-d69dd700-073d-11eb-8d94-5e90ba164d29.png",
-		"thumbnail": "https://user-images.githubusercontent.com/34376831/95086208-d69dd700-073d-11eb-8d94-5e90ba164d29.png",
-		"downloadable" : "true",
-		"collections": "Amoled"
 	},
 	{
 		"name": "illustrations01",
